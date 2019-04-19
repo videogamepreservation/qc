@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Quadrilateral Cowboy";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Quadrilateral Cowboy version 1.0, Copyright 2014 Blendo Games";
+NSHumanReadableCopyright = "Copyright 2014 Blendo Games";
